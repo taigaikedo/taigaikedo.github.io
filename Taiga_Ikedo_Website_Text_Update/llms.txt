@@ -1,0 +1,13 @@
+# Taiga Ikedo
+
+Taiga Ikedo is a PhD candidate in Japanese linguistics at Stanford University. His research examines how communication is evaluated and how those evaluations shape ideas about competence, identity, and participation across media and educational settings in contemporary Japan.
+
+- English homepage: /
+- Japanese homepage: /ja/
+- Research: /#research
+- Presentations: /#presentations
+- Teaching: /#teaching
+- Academic record: /#cv
+- Contact: /#contact
+
+Official contact: ikedot@stanford.edu
